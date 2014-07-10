@@ -1,4 +1,4 @@
-package at.wada811.applicationandmodule;
+package at.wada811.applicationandapplicationmodule;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

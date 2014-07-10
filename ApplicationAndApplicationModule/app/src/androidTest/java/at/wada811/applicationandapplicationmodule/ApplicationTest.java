@@ -1,4 +1,4 @@
-package at.wada811.applicationandmodule;
+package at.wada811.applicationandapplicationmodule;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
